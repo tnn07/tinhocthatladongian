@@ -1,1 +1,3 @@
-Log in function
+<?php
+modification of function
+?>
